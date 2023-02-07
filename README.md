@@ -1,23 +1,22 @@
-# Gantt Chart timeline code  
-This repo serves as an example code to create timelines in R as Gantt charts, as in the figure below:  
+# Gantt Chart timeline code
 
-![](output/timeline.png) 
+This repo serves as an example code to create timelines in R as Gantt charts, as in the figure below:
 
-## Instructions  
-1. Go on `data` folder, and edit the file `timeline.xlsx` by changing the columns   
-  - `name` (name of event you want to appear on y axis)  
-  - `start` with the event start date  
-  - `end` with the event end date  
-  - `type` is a general event type in case you want to color-code it  
+![](output/timeline.png)
 
-2. Launch the RStudio project located on the main folder  
+## Instructions
 
-3. Launch the script found inside the `quarto` folder  
+1.  Go on `data` folder, and edit the file `timeline.xlsx` by changing the columns
 
-4. Run script. Make adjustments on plot if wish, and export it to file.  
+  - `name` (name of event you want to appear on y axis)\
+  - `start` with the event start date\
+  - `end` with the event end date\
+  - `type` is a general event type in case you want to color-code it
 
-5. That's all.
+2.  Launch the RStudio project located on the main folder
 
+3.  Launch the script found inside the `quarto` folder
 
+4.  Run script. Make adjustments on plot if wish, and export it to file.
 
-
+5.  That's all.
